@@ -1,0 +1,52 @@
+{
+  "name": "Cryptoday - Berita Crypto dan Airdrop Terdesentralisasi",
+  "short_name": "Cryptoday",
+  "start_url": "https://crypto.tutorialike.com/?m=1",
+  "display": "standalone",
+  "background_color": "#094677",
+  "theme_color": "#002848",
+  "description": "Selamat Datang di Cryptoday, Berita Crypto dan Airdrop Terdesentralisasi",
+  "icons": [{
+    "src": "https://1.bp.blogspot.com/-OtkUG_CfEfE/YRjkgV_AAyI/AAAAAAAABDk/KiBY8UCBzjEeyUBWg1MSpUjLQqSE_Ll9QCLcBGAsYHQ/s36/icon-cryptoday-36-36.png",
+    "sizes": "36x36",
+    "type": "image/png",
+    "density": "0.75",
+    "purpose": "any maskable"
+  }, {
+    "src": "https://1.bp.blogspot.com/-Xkw4S5cKKWk/YRjkhGys0mI/AAAAAAAABDo/r_Bgg4BBUFcaPzCoulZexelbtQfUto-_wCLcBGAsYHQ/s48/icon-cryptoday-48-48.png",
+    "sizes": "48x48",
+    "type": "image/png",
+    "density": "1.0",
+    "purpose": "any maskable"
+  }, {
+    "src": "https://1.bp.blogspot.com/-SwZd0IJid7o/YRjkiBgl8qI/AAAAAAAABDw/-Lk8_Fo3BsgdqPkHM4OpLIJSCTST4Ah7ACLcBGAsYHQ/s72/icon-cryptoday-72-72.png",
+    "sizes": "72x72",
+    "type": "image/png",
+    "density": "1.5",
+    "purpose": "any maskable"
+  }, {
+    "src": "https://1.bp.blogspot.com/-3O72wdSdozk/YRjkicQDxHI/AAAAAAAABD0/85FuXkDS75wn4qTeWt4yWFGrIEMlDnHHgCLcBGAsYHQ/s96/icon-cryptoday-96-96.png",
+    "sizes": "96x96",
+    "type": "image/png",
+    "density": "2.0",
+    "purpose": "any maskable"
+  }, {
+    "src": "https://1.bp.blogspot.com/-zsF6OsGsSVA/YRjkgTqBB5I/AAAAAAAABDc/vB0NIA0jFKcPMIAaJ5XavyJAuJ0QbD-CACLcBGAsYHQ/s144/icon-cryptoday-144-144.png",
+    "sizes": "144x144",
+    "type": "image/png",
+    "density": "3.0",
+    "purpose": "any maskable"
+  }, {
+    "src": "https://1.bp.blogspot.com/-aaZVKI-TRjI/YRjkgR8qugI/AAAAAAAABDg/aJt-Ht5IyYgoLg7pIhLzdfeUlHirM4wygCLcBGAsYHQ/s192/icon-cryptoday-192-192.png",
+    "sizes": "192x192",
+    "type": "image/png",
+    "density": "4.0",
+    "purpose": "any maskable"
+  }, {
+    "src": "https://1.bp.blogspot.com/-UEawEywP7ws/YRjkhskRbuI/AAAAAAAABDs/WeJterbwU9g7rWMXQo6MxPzlgaEWwaByACLcBGAsYHQ/s320/icon-cryptoday-512-512.png",
+    "sizes": "512x512",
+    "type": "image/png",
+    "density": "5.0",
+    "purpose": "any maskable"
+  }]
+}
